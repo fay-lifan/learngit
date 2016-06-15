@@ -1,0 +1,5 @@
+E:\TidebuyCode\tfs\TLZ.OldSite.Service.Windows.Monitor\TLZ.JSON\bin\Debug\TLZ.JSON.dll
+E:\TidebuyCode\tfs\TLZ.OldSite.Service.Windows.Monitor\TLZ.JSON\bin\Debug\TLZ.JSON.pdb
+E:\TidebuyCode\tfs\TLZ.OldSite.Service.Windows.Monitor\TLZ.JSON\obj\Debug\TLZ.JSON.csprojResolveAssemblyReference.cache
+E:\TidebuyCode\tfs\TLZ.OldSite.Service.Windows.Monitor\TLZ.JSON\obj\Debug\TLZ.JSON.dll
+E:\TidebuyCode\tfs\TLZ.OldSite.Service.Windows.Monitor\TLZ.JSON\obj\Debug\TLZ.JSON.pdb
